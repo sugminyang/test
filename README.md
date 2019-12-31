@@ -1,6 +1,6 @@
-<p align="center">
+<div style="text-align: center;">
   <p style="font-size: 16px;">how's your mood?</p> - mind..
-</p>
+</div>
 
 # Intro
 ----project descriptiopn
