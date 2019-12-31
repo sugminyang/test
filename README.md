@@ -1,5 +1,5 @@
 <p align="center">
-  <p style="font-size:15px;">how's your mood?<p> - mind..
+  <p style="font-size:15px;">how's your mood?</p> - mind..
 </p>
 
 # Intro
