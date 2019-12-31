@@ -1,7 +1,7 @@
 
-  <h1 align="center">
+  <h2 align="center">
     <b>how's your mood?</b> 
-  </h1>
+  </h2>
   <p align="center">
     - mind..
   </p>
