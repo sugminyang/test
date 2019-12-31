@@ -1,6 +1,7 @@
-<div style="text-alin:center;">
+<p align="center">
 <img src="./title.png" alt="title" width="400" />
-</div>
+</p>
+
 # Intro
 ----project descriptiopn
 
