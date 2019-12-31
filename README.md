@@ -1,10 +1,8 @@
 <div>
   <h1 align="center">
-    <b>how's your mood?</b>
+    <b>how's your mood?</b> 
   </h1>
-<p align="center">
-  - mind..
-</p>
+    - mind..
 </div>
 # Intro
 ----project descriptiopn
