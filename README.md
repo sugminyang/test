@@ -32,7 +32,7 @@
 - [screenshot4.jpg](project_final/project_result_image) - description
 
 # using Libraries
-| Library Name                                |                                                                            |
+| Library Name                                |  description                                                                 |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
 | numpy                        | Test components for user accessibility in Storybook                        |
 | networkx                  | Log actions as users interact with components in the Storybook UI          |
