@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./title.png" alt="title" width="1200" />
+  <p style="font-size:15px;">how's your mood?<p> - mind..
 </p>
 
 # Intro
