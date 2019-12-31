@@ -9,8 +9,8 @@
 # using Libraries
 | Library Name                                |                                                                            |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
-| [Numpy]                        | Test components for user accessibility in Storybook                        |
-| [networkx]                  | Log actions as users interact with components in the Storybook UI          |
+| Numpy                        | Test components for user accessibility in Storybook                        |
+| networkx                  | Log actions as users interact with components in the Storybook UI          |
 
 
 # Contact
